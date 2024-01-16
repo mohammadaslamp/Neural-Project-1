@@ -1,7 +1,7 @@
 # Neural-Networks-Deep-Learning---ICP-1
 
-Name: Lnu Rumana Thaskeen
-Student ID: 700742859                                                                                                                   
+Name: Mohammad Abdul Aslam Parvez
+Student ID: 700747364                                                                                                                  
 CRN: 23216   
 
 Here is the link to the document with description: 
