@@ -2,7 +2,7 @@
 
 Name: Mohammad Abdul Aslam Parvez
 Student ID: 700747364                                                                                                                  
-CRN: 23216   
+CRN: 22280   
 
 Here is the link to the document with description: 
 https://docs.google.com/document/d/1f7M0hQhOWyiOTGF58UK8bRygos9LKWoT/edit
