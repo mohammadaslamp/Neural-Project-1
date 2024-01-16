@@ -5,10 +5,10 @@ Student ID: 700747364
 CRN: 23216   
 
 Here is the link to the document with description: 
-https://docs.google.com/document/d/1XkSdZcLjKPonO3oqvjh_WZ-jxhRFJyK6/edit?usp=sharing&ouid=104224780424464634499&rtpof=true&sd=true
+https://docs.google.com/document/d/1f7M0hQhOWyiOTGF58UK8bRygos9LKWoT/edit
 
 Here is the link to the source code:
-https://drive.google.com/file/d/1Cs68GoUIqeET2UzfEeCEoxGR_3Atp0O5/view?usp=sharing
+https://drive.google.com/drive/u/0/folders/1dz1i334quwrJndYvNNgRTKkWazbcT42P
 
 1. 	– In this program, I have given the input string as “python” and used the replace() method to delete 2 characters and reversed the string using slicing
     - In this program, I have allowed the user to enter two integers to take them as input, perform 4 arithmetic operations on them and print the output. 
