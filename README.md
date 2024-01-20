@@ -11,7 +11,7 @@ Here is the link to the source code:
 https://drive.google.com/drive/u/0/folders/1dz1i334quwrJndYvNNgRTKkWazbcT42P
 
 Here is the link to the video recording:
-https://drive.google.com/drive/u/0/folders/1dz1i334quwrJndYvNNgRTKkWazbcT42P
+https://drive.google.com/file/d/104NVgeaD-pZWZt3fmfDOxrGQEHsFc2ow/view?usp=sharing
 
 1. 	– In this program, I have given the input string as “python” and used the replace() method to delete 2 characters and reversed the string using slicing
     - In this program, I have allowed the user to enter two integers to take them as input, perform 4 arithmetic operations on them and print the output. 
